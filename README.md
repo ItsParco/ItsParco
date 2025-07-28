@@ -3,6 +3,8 @@
 A super ultra mega lazy human being... who somehow still enjoys coding.  
 While others chase deadlines, I chase the _perfect nap duration_.
 
+---
+
 ## 🌌 Midnight Debugger at Heart
 
 I come alive between 11PM and “oh no, it’s already 4AM.”  
