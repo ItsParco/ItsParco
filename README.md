@@ -1,22 +1,33 @@
-## <h1 align="center">Hi there👋 I'm WhiteCow</h1>
+# 😴 It's Parco
 
-░██╗░░░░░░░██╗██╗░░██╗██╗████████╗███████╗░█████╗░░█████╗░░██╗░░░░░░░██╗
-░██║░░██╗░░██║██║░░██║██║╚══██╔══╝██╔════╝██╔══██╗██╔══██╗░██║░░██╗░░██║
-░╚██╗████╗██╔╝███████║██║░░░██║░░░█████╗░░██║░░╚═╝██║░░██║░╚██╗████╗██╔╝
-░░████╔═████║░██╔══██║██║░░░██║░░░██╔══╝░░██║░░██╗██║░░██║░░████╔═████║░
-░░╚██╔╝░╚██╔╝░██║░░██║██║░░░██║░░░███████╗╚█████╔╝╚█████╔╝░░╚██╔╝░╚██╔╝░
-░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚══════╝░╚════╝░░╚════╝░░░░╚═╝░░░╚═╝░░
+A super ultra mega lazy human being... who somehow still enjoys coding.  
+While others chase deadlines, I chase the _perfect nap duration_.
 
-<h3 align="left">Languages:</h3>
+## 🌌 Midnight Debugger at Heart
 
-## [![languages](https://skillicons.dev/icons?i=py,nodejs,vue)](https://skillicons.dev)
+I come alive between 11PM and “oh no, it’s already 4AM.”  
+With lo-fi beats playing and error messages piling up,  
+I somehow find that one last fix —  
+like using your final potion right before the boss fight.
 
-[![tools](https://skillicons.dev/icons?i=vscode,discord,arduino)](https://skillicons.dev)
+## 🧪 Special Skills
+
+- Turning caffeine into buggy scripts that _somehow work_
+- Debugging at 3AM with lo-fi and mild existential crises
+- Writing code that looks like chaos... but still runs (most of the time)
+
+## 🧑‍💻 A Beginner Coder
+
+I'm still learning the ropes and enjoying every step of the journey.  
+Though a beginner, I’m curious and motivated to improve every day
+
+## 💻 Preferred Weapons
+
+`Python`, `Node.js`, `Vue`, and the occasional `Arduino` spell  
+(for those rare moments when I feel brave enough to fight with hardware)
 
 ---
 
-<h3 align="left">Stats:</h3>
+### 💬 Favorite Quote
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitecow410&show_icons=true&theme=dark)" alt="rishavchanda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitecow410&show_icons=true&theme=dark)" alt="rishavchanda" /></p>
+> “Sleep is temporary, code is forever… until it breaks.”
