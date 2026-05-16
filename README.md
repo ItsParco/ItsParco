@@ -23,11 +23,6 @@ like using your final potion right before the boss fight.
 I'm still learning the ropes and enjoying every step of the journey.  
 Though a beginner, I’m curious and motivated to improve every day
 
-## 💻 Preferred Weapons
-
-`Python`, `Node.js`, `Vue`, and the occasional `Arduino` spell  
-(for those rare moments when I feel brave enough to fight with hardware)
-
 ---
 
 ### 💬 Favorite Quote
