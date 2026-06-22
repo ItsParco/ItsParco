@@ -15,7 +15,6 @@ A super, ultra, mega lazy human being... who somehow still deeply enjoys the cha
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
     </td>
   </tr>
-  <tr><td height="10px"></td></tr>
   <tr>
     <td width="120px" align="left"><b>⚙️ Backend</b></td>
     <td align="left">
@@ -24,7 +23,6 @@ A super, ultra, mega lazy human being... who somehow still deeply enjoys the cha
       <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     </td>
   </tr>
-  <tr><td height="10px"></td></tr>
   <tr>
     <td width="120px" align="left"><b>🚀 Mobile & Tools</b></td>
     <td align="left">
